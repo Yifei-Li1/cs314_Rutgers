@@ -1,0 +1,20 @@
+EXCLUDE_QUERY_DIR
+B /Users/hezhu/.opam/default/lib/bytes
+B /Users/hezhu/.opam/default/lib/oUnit
+B /Users/hezhu/.opam/default/lib/qcheck
+B /Users/hezhu/.opam/default/lib/qcheck-core
+B /Users/hezhu/.opam/default/lib/qcheck-core/runner
+B /Users/hezhu/.opam/default/lib/qcheck-ounit
+B /usr/local/lib/ocaml
+B ../_build/default/src/.asn3.objs/byte
+B ../_build/default/test/.public.eobjs/byte
+S /Users/hezhu/.opam/default/lib/bytes
+S /Users/hezhu/.opam/default/lib/oUnit
+S /Users/hezhu/.opam/default/lib/qcheck
+S /Users/hezhu/.opam/default/lib/qcheck-core
+S /Users/hezhu/.opam/default/lib/qcheck-core/runner
+S /Users/hezhu/.opam/default/lib/qcheck-ounit
+S /usr/local/lib/ocaml
+S ../src
+S .
+FLG -w -40

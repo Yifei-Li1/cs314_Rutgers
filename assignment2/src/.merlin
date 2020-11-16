@@ -1,0 +1,4 @@
+EXCLUDE_QUERY_DIR
+B ../_build/default/src/.assignment2.eobjs/byte
+S .
+FLG -w -40

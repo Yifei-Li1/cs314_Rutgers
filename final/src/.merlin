@@ -1,0 +1,4 @@
+EXCLUDE_QUERY_DIR
+B ../_build/default/src/.cs314.objs/byte
+S .
+FLG -open Cs314 -w -40
